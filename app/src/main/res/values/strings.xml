@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">listView</string>
+    <string-array name="technology">
+        <item>Java</item>
+        <item>C/C++</item>
+        <item>Python</item>
+        <item>NoteJs</item>
+    </string-array>
+</resources>
